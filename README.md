@@ -66,7 +66,7 @@ KELAS : TI.22.A3
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/115516617/195817064-da1931ab-884f-4b0f-91ec-b60ef633fbc1.png)
 
-16. Setelah itu gunakan "git clone untuk mengcopy repository server
+16. Setelah itu gunakan "git clone" untuk mengcopy repository server
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/115516617/195796941-d6384075-50b7-4403-a71c-2f6c46487cf2.png)
 
