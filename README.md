@@ -10,15 +10,15 @@ KELAS : TI.22.A3
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/115516617/195770316-84cfdd38-dcd1-4403-b7d4-afe8895609b1.png)
 
-2.Pilih folder yang aktif
+2.Pilih direktori yang aktif
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/115516617/195772873-0fd967b2-e34f-4af4-93ec-5dc24df87e31.png)
 
-3.Masukkan ke folder dengan perintah "mkdir"
+3.Masukkan ke direktori dengan perintah "mkdir"
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/115516617/195774546-b177f9ab-af1e-40c2-899b-ecc753843a07.png)
 
-4.Masuk folder dengan perintah cd "change folder"
+4.Masuk rektori dengan perintah cd "change folder"
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/115516617/195775717-5a6a1336-5145-4c2a-81c6-173645c07e50.png)
 
@@ -46,15 +46,15 @@ KELAS : TI.22.A3
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/115516617/195786484-ec70c0aa-261d-4a84-a903-b9eab918f629.png)
 
-11.Selanjutnya buat folder baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
+11.Selanjutnya buat direktori baru dengan menggunakan github.com kemudian pilih menu icon diatas kanan dan klik new repository
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/115516617/195789983-cba371e4-c4d9-4011-bf0d-c3e3c76ee243.png)
 
-12.Selanjutnya buat folder baru dengan nama sesuai keinginan contohnya "latihan VCS"
+12.Selanjutnya buat direktori baru dengan nama sesuai keinginan contohnya "latihan VCS"
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/115516617/195790423-dc98a4d4-3cac-488c-818b-ded909a19e83.png)
 
-13.Untuk menambahkan folder jarak jauh kita menggunakan perintah "git remote add origin [url]"dan gunakan perintah "git push-u origin master" untuk mengirim perubahan pada repositori lokal ke server
+13.Untuk menambahkan direktori jarak jauh kita menggunakan perintah "git remote add origin [url]"dan gunakan perintah "git push-u origin master" untuk mengirim perubahan pada repositori lokal ke server
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/115516617/195791443-2671c982-61a4-4658-9a8e-c73e576041ce.png)
 
@@ -71,6 +71,11 @@ KELAS : TI.22.A3
 ![Screenshot (20)](https://user-images.githubusercontent.com/115516617/195794446-b748e603-df82-40b8-948d-689091430b43.png)
 
 17. Setelah itu gunakan "git clone untuk mengcopy repository server
+
+![Screenshot (21)](https://user-images.githubusercontent.com/115516617/195796941-d6384075-50b7-4403-a71c-2f6c46487cf2.png)
+
+SEKIAN TUTORIAL CARA MEMBUAT REPOSITORY
+
 
 
 
