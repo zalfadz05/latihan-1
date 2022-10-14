@@ -64,7 +64,7 @@ KELAS : TI.22.A3
 
 15.Jika berhasil  maka tampilannya akan seperti dibawah ini
 
-![Screenshot (20)](https://user-images.githubusercontent.com/115516617/195794446-b748e603-df82-40b8-948d-689091430b43.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/115516617/195817064-da1931ab-884f-4b0f-91ec-b60ef633fbc1.png)
 
 16. Setelah itu gunakan "git clone untuk mengcopy repository server
 
